@@ -53,6 +53,12 @@ To set up and run the project locally, follow these steps:
 
 The LangChain QA Chain is used for question-answering capabilities. The model (`google/flan-t5-large`) is loaded using the Hugging Face Hub (`langchain.HuggingFaceHub`) with specific model configurations.
 
+## Additional Documentation
+
+- [Chatbot User Guide](Chatbot-User-Guide.md): Provides detailed instructions on how users can interact with the chatbot and utilize its features effectively.
+
+- [Development Process](Development-Process.md): Outlines the development process of the chatbot application, highlighting key learning points and challenges encountered.
+
 ### Conclusion
 
 This README provides an overview of the chatbot project, including its features, setup instructions, backend routes, frontend functions, and model building process. Follow the instructions to set up and run the project locally on your machine.
