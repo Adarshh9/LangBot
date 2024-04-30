@@ -33,11 +33,6 @@ In this document, I will outline the development process of creating a chatbot a
 - **Integration**: Integrated the frontend and backend components to create a cohesive application.
 - **Testing**: Conducted testing to ensure all features were working as expected, including sending queries, uploading documents, and receiving responses from the chatbot.
 
-### 6. Deployment and Finalization
-
-- **Deployment**: Deployed the application to a server to make it accessible to users.
-- **Documentation**: Documented the development process, including key learning points and challenges encountered, for future reference.
-
 ### Conclusion
 
 The development of the chatbot application was a challenging but rewarding experience. Through the process, I gained valuable insights into natural language processing techniques, model training, Flask backend development, and frontend design. The project also introduced me to powerful NLP tools like LangChain and Hugging Face, which I can leverage in future projects. Overall, it was a successful endeavor that expanded my skills and knowledge in the field of NLP and web development.
