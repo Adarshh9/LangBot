@@ -25,7 +25,7 @@ To set up and run the project locally, follow these steps:
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using pip (Python package manager).
 
    ```bash
-   cd chatbot-project
+   cd LangBot
    pip install -r requirements.txt
    ```
 
