@@ -14,10 +14,10 @@ This project is a chatbot application that allows users to interact with an AI-p
 
 ### Additional Files
 
-- **Hugging Face Database**: Due to size limitations, the `hf-database.pickle` file is not included in the repository. You can download it from the following link:
-  - [Download hf-database.pickle](https://drive.usercontent.google.com/download?id=1WQ3zf9UySQF9tuT6l7wm06RcK94bSWZg&export=download&authuser=0)
+- **Hugging Face Database**: Due to size limitations, the `hf_database.pickle` file is not included in the repository. You can download it from the following link:
+  - [Download hf_database.pickle](https://drive.usercontent.google.com/download?id=1WQ3zf9UySQF9tuT6l7wm06RcK94bSWZg&export=download&authuser=0)
 
-  After downloading, save the `hf-database.pickle` file under the `model` directory in your project.
+  After downloading, save the `hf_database.pickle` file under the `model` directory in your project.
 
 ### Setup Instructions
 
