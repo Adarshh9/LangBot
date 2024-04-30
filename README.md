@@ -12,6 +12,13 @@ This project is a chatbot application that allows users to interact with an AI-p
 - Responses provided by the chatbot are powered by LangChain's QA Chain.
 - Clean and intuitive user interface.
 
+### Additional Files
+
+- **Hugging Face Database**: Due to size limitations, the `hf-database.pickle` file is not included in the repository. You can download it from the following link:
+  - [Download hf-database.pickle](link_to_download_location)
+
+  After downloading, save the `hf-database.pickle` file under the `model` directory in your project.
+
 ### Setup Instructions
 
 To set up and run the project locally, follow these steps:
@@ -53,7 +60,7 @@ To set up and run the project locally, follow these steps:
 
 The LangChain QA Chain is used for question-answering capabilities. The model (`google/flan-t5-large`) is loaded using the Hugging Face Hub (`langchain.HuggingFaceHub`) with specific model configurations.
 
-## Additional Documentation
+### Additional Documentation
 
 - [Chatbot User Guide](Chatbot-User-Guide.md): Provides detailed instructions on how users can interact with the chatbot and utilize its features effectively.
 
